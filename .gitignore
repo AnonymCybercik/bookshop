@@ -1,0 +1,15 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Database
+db.sqlite3
+db.sqlite3-journal
+
+# Django Migrations
+**/migrations/
